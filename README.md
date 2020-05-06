@@ -1,2 +1,2 @@
-# Caffe2_detectron2
+# Caffe2_Detectron2
 Deep Learning in Caffe2 and Detectron2 
