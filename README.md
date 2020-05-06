@@ -13,4 +13,4 @@ See for more information：
 
 https://github.com/caffe2/tutorial
 
-https://github.com/facebookresearch/detectron2　
+https://github.com/facebookresearch/detectron2
