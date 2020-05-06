@@ -11,6 +11,6 @@ Detectron2 のノートブックでは、Google Colab の /content/ に git clon
 
 See for more information：
 
-https://github.com/caffe2/tutorial
+https://github.com/facebookarchive/tutorials
 
 https://github.com/facebookresearch/detectron2
