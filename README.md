@@ -9,8 +9,10 @@ Google　Colab の /content/drive/My Drive/ に git clone するケースに対�
  
 Detectron2 のノートブックでは、Google Colab の /content/ に git clone
 
-See for more information：
+See for more information on caffe2：
 
 https://github.com/facebookarchive/tutorials ; https://caffe2.ai/docs/tutorials
 
-https://github.com/facebookresearch/detectron2
+See more information on mask segmentation and instance segmentation:
+
+https://github.com/facebookresearch/detectron2 ; https://github.com/facebookresearch/maskrcnn-benchmark
